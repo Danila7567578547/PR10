@@ -8,7 +8,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Содержание:
+   :caption: Содержание/Оглавление:
 
    modules/task
    modules/user
@@ -22,7 +22,7 @@
    :undoc-members:
    :show-inheritance:
 
-Индексы и таблицы
+Индексы, таблицы и поиск:
 ----------------
 
 * :ref:`genindex`
