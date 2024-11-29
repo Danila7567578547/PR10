@@ -1,0 +1,7 @@
+mkdir docs
+cd docs
+mkdir _build
+mkdir _static
+mkdir _templates 
+mkdir src
+mv PR10.py src/ 
